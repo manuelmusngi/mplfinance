@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/matplotlib/mplfinance.svg?branch=master)](https://travis-ci.org/matplotlib/mplfinance)
+
 
 # mplfinance
 matplotlib utilities for the visualization, and visual analysis, of financial data
